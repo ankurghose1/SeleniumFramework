@@ -26,7 +26,7 @@ public class FormPages {
 	public WebElement getClick() {
 		return click;
 	}
-
+//new push
 	
 	
 	
