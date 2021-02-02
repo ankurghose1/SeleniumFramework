@@ -16,6 +16,7 @@ public class Base {
 		//driver.get("http://automationpractice.com/index.php");
 		//driver.get("https://www.jetblue.com/");
 		driver.get("https://demoqa.com/automation-practice-form");
+		driver.manage().window().maximize();
 
 		return driver;
 		
